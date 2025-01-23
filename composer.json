@@ -1,7 +1,7 @@
 {
-  "name": "ahmeti/ptt-kargo-api",
+  "name": "ZBurak06/ptt-kargo-api",
   "description": "PTT Kargo Api (PHP)",
-  "homepage": "https://github.com/ahmeti/ptt-kargo-api",
+  "homepage": "https://github.com/ZBurak06/ptt-kargo-api",
   "keywords": [
       "ptt",
       "kargo",
@@ -11,10 +11,10 @@
   "license": "MIT",
   "authors": [
       {
-          "name": "Ahmet Imamoglu",
-          "email": "ahmet363@gmail.com",
+          "name": "Burak Işıktaş",
+          "email": "info@burakisiktas.com",
           "role": "Developer",
-          "homepage": "https://ahmetimamoglu.com.tr"
+          "homepage": "https://github.com/ZBurak06"
       }
   ],
   "require": {
@@ -27,7 +27,7 @@
   },
   "autoload": {
       "psr-0": {
-          "Ahmeti\\PttKargoApi": "src/"
+          "ZBurak06\\PttKargoApi": "src/"
       }
   }
 }
