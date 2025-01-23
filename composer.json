@@ -1,7 +1,7 @@
 {
-  "name": "ZBurak06/ptt-kargo-api",
+  "name": "zburak06/ptt-kargo-api",
   "description": "PTT Kargo Api (PHP)",
-  "homepage": "https://github.com/ZBurak06/ptt-kargo-api",
+  "homepage": "https://github.com/zburak06/ptt-kargo-api",
   "keywords": [
       "ptt",
       "kargo",
@@ -14,7 +14,7 @@
           "name": "Burak Işıktaş",
           "email": "info@burakisiktas.com",
           "role": "Developer",
-          "homepage": "https://github.com/ZBurak06"
+          "homepage": "https://github.com/zburak06"
       }
   ],
   "require": {
@@ -27,7 +27,7 @@
   },
   "autoload": {
       "psr-0": {
-          "ZBurak06\\PttKargoApi": "src/"
+          "zburak06\\PttKargoApi": "src/"
       }
   }
 }
